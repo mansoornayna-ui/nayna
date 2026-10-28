@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mansoornayna-ui/nayna/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/mansoornayna-ui/nayna/tree/master/0021-merge-two-sorted-lists) |
 ## Greedy
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mansoornayna-ui/nayna/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mansoornayna-ui/nayna/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
